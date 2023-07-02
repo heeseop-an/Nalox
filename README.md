@@ -15,8 +15,6 @@ As a user, I want to be able to:
 - automatically save the list of items in the inventory when I quit the application
 - print out event logs on console after I quite the application
 
-### Phase 4: Task 2
-
 Sample log:
 
 - Mon Nov 22 20:58:06 PST 2021 - Item ID:a56a7c73-aeb5-4a7e-a06d-8dbeba151d4f, Item added to the inventory.
@@ -33,8 +31,6 @@ The sample log shows events related to Skincare Item with unique item ID that en
 The first six items have been loaded from file and added to the inventory.
 Then the items with ID: ca8a6bee-b138-40b4-b91e-b4f63e1697f3 and ID:166039d9-77fc-4967-9a09-e230d33a8bc1 were edited and updated to the inventory.
 The last item was not loaded but added by the user with unique ID which was not seen from the loaded items.
-
-### Phase 4: Task 3
 
 Designs to be improved in the future:
 
